@@ -1,0 +1,27 @@
+    body {
+      margin: 0;
+      padding: 0;
+      /*background-image: url('./school1.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 100vh; /* Set the height of the viewport */
+    }
+    .grid-item {
+        padding: 20px;
+        text-align: center;
+      }
+      .grid-item img {
+        max-width: 100%;
+        height: auto;
+      }
+      
+.contact_us{
+    padding: auto;
+    margin: 0%;
+
+}
+.contactform{
+    text-align: center;
+    align-items: center;
+}
+
